@@ -1,0 +1,14 @@
+{
+  "renv": {
+    "Version": "0.8.3"
+  },
+  "R": {
+    "Version": "3.6.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cran.rstudio.com"
+      }
+    ]
+  }
+}
