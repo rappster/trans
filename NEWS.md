@@ -1,3 +1,20 @@
+# trans 0.0.0.9005 (development version)
+
+{dplyr}, /R/packages.R
+
+Fixed/closed:
+
+Changed:
+
+Added:
+
+- Package dependency `dplyr`
+- Function `trans_left_join_auto()` including unit tests
+- Function `trans_bind_cols_auto()` including unit tests
+- File `/R/packages.R`
+
+--------------------------------------------------------------------------------
+
 # trans 0.0.0.9004
 
 {rappster/confx} in .travis.yml
