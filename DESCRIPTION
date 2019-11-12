@@ -19,3 +19,5 @@ Imports:
     confx,
     dplyr,
     lifecycle
+RdMacros: 
+    lifecycle
