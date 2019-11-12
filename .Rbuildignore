@@ -3,3 +3,5 @@
 ^renv$
 ^renv\.lock$
 ^README\.Rmd$
+^\.travis\.yml$
+^codecov\.yml$
