@@ -1,7 +1,7 @@
 Package: trans
 Type: Package
 Title: What the Package Does (Title Case)
-Version: 0.0.0.9002
+Version: 0.0.0.9003
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
@@ -13,6 +13,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.1
 Suggests: 
     testthat (>= 2.1.0),
-    covr
+    covr,
+    devtools
 Imports: 
     confx

@@ -1,3 +1,17 @@
+# trans 0.0.0.9003
+
+{devtools}
+
+Fixed/closed:
+
+Changed:
+
+Added:
+
+- Package dependency (suggests) `devtools`
+
+--------------------------------------------------------------------------------
+
 # trans 0.0.0.9002
 
 {confx}, config.yml and trans_add__generic()
