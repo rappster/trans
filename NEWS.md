@@ -1,3 +1,17 @@
+# trans 0.0.0.9004
+
+{rappster/confx} in .travis.yml
+
+Fixed/closed:
+
+Changed:
+
+Added:
+
+- Package dependency `rappster/confx` in `.travis.yml`
+
+--------------------------------------------------------------------------------
+
 # trans 0.0.0.9003
 
 {devtools}
