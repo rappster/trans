@@ -3,3 +3,6 @@ NULL
 
 #' @import dplyr
 NULL
+
+#' @import lifecylce
+NULL

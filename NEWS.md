@@ -1,3 +1,17 @@
+# trans 0.0.0.9006 (development version)
+
+{lifecycle}
+
+Fixed/closed:
+
+Changed:
+
+Added:
+
+- Package dependency `lifecycle`
+
+--------------------------------------------------------------------------------
+
 # trans 0.0.0.9005 (development version)
 
 {dplyr}, /R/packages.R
