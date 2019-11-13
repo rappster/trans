@@ -1,3 +1,21 @@
+# trans 0.0.0.9008 (development version)
+
+`skip_on_covr()` and `/R/startup.R`
+
+Fixed/closed:
+
+- Fixed typo in `/R/package.R`
+
+Changed:
+
+- Added `skip_on_covr()` to `/tests/testthat/test-trans_add_generic.R`
+
+Added:
+
+- File `/R/startup.R` for `onLoad()` and `onAttach()`
+
+--------------------------------------------------------------------------------
+
 # trans 0.0.0.9007 (development version)
 
 Fixed typo in `/R/package.R`

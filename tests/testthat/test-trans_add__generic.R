@@ -1,4 +1,5 @@
 test_that("trans_add__generic() works: 1", {
+  skip_on_covr()
   x <- tibble::tibble(x = 1)
   target <- x %>%
     dplyr::mutate(y = 100)
@@ -11,6 +12,7 @@ test_that("trans_add__generic() works: 1", {
 })
 
 test_that("trans_add__generic() works: 2", {
+  skip_on_covr()
   x <- tibble::tibble(x = 1)
   target <- x %>%
     dplyr::mutate(y = TRUE)
