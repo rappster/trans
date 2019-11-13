@@ -1,3 +1,17 @@
+# trans 0.0.0.9007 (development version)
+
+Fixed typo in `/R/package.R`
+
+Fixed/closed:
+
+- Fixed typo in `/R/package.R`
+
+Changed:
+
+Added:
+
+--------------------------------------------------------------------------------
+
 # trans 0.0.0.9006 (development version)
 
 {lifecycle}

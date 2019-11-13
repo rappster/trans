@@ -4,5 +4,5 @@ NULL
 #' @import dplyr
 NULL
 
-#' @import lifecylce
+#' @import lifecycle
 NULL
